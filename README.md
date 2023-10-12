@@ -21,14 +21,15 @@ You may also see any lint errors in the console.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-react-app.git
+   git clone https://github.com/ravix007/Google_Login-And-Admin_Page
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-react-app
+   cd Google_Login-And-Admin_Page
+
 
    ```
 
